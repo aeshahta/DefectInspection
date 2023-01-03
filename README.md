@@ -17,7 +17,7 @@ was the pre-trained model: pytorch squeezenet model with 99.2% test accuracy on 
 https://www.kaggle.com/datasets/danielbacioiu/tig-aluminium-5083
 
 ## OUTPUT
+![alt text](https://github.com/aeshahta/DefectInspection/blob/main/output.png?raw=true)
 
-https://github.com/azzaelnaggar/defect_inspection/issues/1#issue-1514117374
 
 
