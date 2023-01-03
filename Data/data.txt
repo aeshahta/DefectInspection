@@ -1,0 +1,13 @@
+
+The Data available in this link :
+"https://www.kaggle.com/datasets/danielbacioiu/tig-aluminium-5083"
+
+to download data you can follow these steps:
+
+1: upload your own kaggle.json file (attatched)
+2: run this code
+
+'''
+!mv kaggle.json /root/.kaggle
+!kaggle datasets download -d danielbacioiu/tig-aluminium-5083
+'''
