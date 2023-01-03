@@ -1,4 +1,4 @@
-# Defect Inspection-pytorch
+# Defect Inspection: Deep Learning Approach on TIG welding Aluminum (Pytorch)
 **About Project**
 
 This system for classifying good and defect weld using the pretrained model SqueezeNet on the TIG aluminum 5083 dataset and 
